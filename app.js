@@ -37,3 +37,4 @@ newArr.reverse();
 
 var reverse = newArr.join("")
 console.log(newArr)
+//push
